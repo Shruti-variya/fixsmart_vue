@@ -25,6 +25,16 @@
           >
             Services
           </router-link>
+          <router-link to="/dashboard" class="text-gray-600 hover:text-blue-500 transition">
+            Dashboard
+          </router-link>
+           <router-link to="/provider" class="text-gray-600 hover:text-blue-500 transition">
+              Provider 
+            </router-link>
+            <router-link to="/admin" class="text-gray-600 hover:text-purple-500 transition">
+              Admin Panel
+            </router-link>
+
           <a href="#" class="text-gray-600 hover:text-[#3B82F6] transition-colors duration-200">
             How It Works
           </a>

@@ -180,8 +180,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Professional plumbing services',
     longDescription: 'Our professional plumbing services include fixing leaks, installing fixtures, drain cleaning, pipe repairs, water heater installation, and more. All our plumbers are certified and experienced in handling both residential and commercial plumbing issues.',
     icon: '🔧',
-    startingPrice: 50,
-    duration: '1-3 hours'
+    // duration: '1-3 hours'
   },
   2: { 
     id: 2, 
@@ -189,8 +188,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Deep cleaning and maintenance',
     longDescription: 'Comprehensive cleaning services for your home or office. We provide deep cleaning, regular maintenance, carpet cleaning, window washing, and specialized cleaning services. Our eco-friendly cleaning products ensure a safe environment for your family.',
     icon: '🧹',
-    startingPrice: 40,
-    duration: '2-4 hours'
+    // duration: '2-4 hours'
   },
   3: { 
     id: 3, 
@@ -198,8 +196,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Electrical repairs and installations',
     longDescription: 'Professional electrical services including wiring, repairs, installations, lighting solutions, electrical panel upgrades, and safety inspections. Our licensed electricians ensure all work meets safety standards and building codes.',
     icon: '⚡',
-    startingPrice: 60,
-    duration: '1-2 hours'
+    // duration: '1-2 hours'
   },
   4: { 
     id: 4, 
@@ -207,8 +204,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Interior and exterior painting',
     longDescription: 'Transform your space with our professional painting services. We offer interior and exterior painting, color consultation, surface preparation, wallpaper installation, and decorative finishes. Quality paints and expert application guaranteed.',
     icon: '🎨',
-    startingPrice: 45,
-    duration: '4-8 hours'
+    // duration: '4-8 hours'
   },
   5: { 
     id: 5, 
@@ -216,8 +212,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Woodwork and furniture',
     longDescription: 'Expert carpentry services including custom furniture, cabinet making, shelving units, door installation, trim work, and wood repairs. We work with various wood types and can bring your woodworking ideas to life with precision and craftsmanship.',
     icon: '🪚',
-    startingPrice: 55,
-    duration: '2-6 hours'
+    // duration: '2-6 hours'
   },
   6: { 
     id: 6, 
@@ -225,8 +220,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Appliance repair and maintenance',
     longDescription: 'Comprehensive appliance repair services for refrigerators, washing machines, dryers, ovens, dishwashers, and more. We diagnose issues, provide repairs, and offer maintenance services to extend the life of your appliances.',
     icon: '🔌',
-    startingPrice: 35,
-    duration: '1-2 hours'
+    // duration: '1-2 hours'
   },
   7: { 
     id: 7, 
@@ -234,8 +228,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Protection and prevention services',
     longDescription: 'Comprehensive rost control services including protection systems, preventive maintenance, security solutions, and damage control. We provide expert solutions to protect your property from various threats and ensure long-term safety.',
     icon: '🛡️',
-    startingPrice: 75,
-    duration: '2-4 hours'
+    // duration: '2-4 hours'
   },
   8: { 
     id: 8, 
@@ -243,8 +236,7 @@ const servicesData: { [key: number]: Service } = {
     description: 'Luxury vehicle maintenance',
     longDescription: 'Specialized lamboaging services for luxury and high-performance vehicles. We offer detailing, maintenance, care, and protection services to keep your luxury vehicle in pristine condition. Expert care for your premium automobile.',
     icon: '🚗',
-    startingPrice: 120,
-    duration: '3-5 hours'
+    // duration: '3-5 hours'
   }
 }
 

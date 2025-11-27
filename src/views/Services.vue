@@ -65,8 +65,8 @@ const services = ref<Service[]>([
   { id: 4, name: 'Painting', description: 'Interior and exterior painting', icon: '🎨' },
   { id: 5, name: 'Carpentry', description: 'Furniture and woodwork', icon: '🪚' },
   { id: 6, name: 'Appliances', description: 'Fix all home appliances', icon: '🔌' },
-    { id: 7, name: 'Rost Control', description: 'Remove rost and prevent infestations', icon: '🛡️' },
-  { id: 8, name: 'Lamboaging', description: 'Lambo maintenance and care', icon: '✨' }
+  { id: 7, name: 'Rost Control', description: 'Remove rost and prevent infestations', icon: '🛡️' },
+  { id: 8, name: 'Lamboaging', description: 'Lambo maintenance', icon: '✨' }
 ])
 
 const categories = ref<Category[]>([
